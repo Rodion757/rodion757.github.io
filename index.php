@@ -141,12 +141,7 @@
                         
                         	<div id="newsletter_box">
                             
-                               <form action="kod.php" method="post">
-Ваше имя <input type="text" name="first_name">
-Email: <input type="text" name="email" required placeholder="Обязательное поле">
-Сообщение:<br><textarea rows="2" name="message" cols="21"></textarea>
-<input type="submit" name="submit" value="Отправить">
-</form>
+     
                         	</div>
                             
 
